@@ -1,0 +1,28 @@
+.img-div{
+    padding: 20px;
+}
+
+.heights{
+    border-radius: 50%;
+    text-align: center;
+    height:100px;
+    width: 100px;
+   border: 3px solid rgb(42, 42, 42);
+}
+.card{
+    background-color: rgb(251, 208, 197) !important;
+    /* border: 1px solid rgb(253, 161, 161) !important; */
+    border: 0 !important;
+}
+.name-color{
+    color:rgb(0, 35, 68)
+}
+.text-color{
+    color: rgb(49, 49, 49);
+}
+.span-color{
+    color: rgb(4, 18, 56);
+}
+.btn-color{
+    background-color: rgb(0, 17, 56) !important;
+}
